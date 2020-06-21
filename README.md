@@ -11,7 +11,7 @@ work day schedule.
 * Bootstrap
 
 # Website
-https://niko09es.github.io/
+https://niko09es.github.io/work-day-scheduler-/.
 
 ## Overview activities
 
